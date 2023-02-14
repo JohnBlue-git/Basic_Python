@@ -2,6 +2,12 @@
 # Time: 2023/2
 # Object: listing common types or containers in Python
 
+#some informatin about list
+#http://www.runoob.com/python/python-lists.html
+#also note that list, 'tuple' and 'int', array, are different
+#np.sahpe is not going to deal with 'tuple' and 'int' or ...
+#len is used in list
+
 
 import numpy as np
 
